@@ -26,7 +26,7 @@ This project is suitable for those who want to practice **Python data processing
 
 ---
 
-## 📊 Sample Analysis Results
+## 📊 Analysis Results
 - Visualized Hong Kong’s annual average temperature (1990–2025)  
 - Results of Hong Kong’s seasonal average temperature (1990–2025)  
 
